@@ -1,0 +1,9 @@
+C:\Users\patel\Desktop\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\patel\Desktop\DataModel\bin\Debug\DataModel.dll
+C:\Users\patel\Desktop\DataModel\bin\Debug\DataModel.pdb
+C:\Users\patel\Desktop\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\patel\Desktop\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\patel\Desktop\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\patel\Desktop\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\patel\Desktop\DataModel\obj\Debug\DataModel.dll
+C:\Users\patel\Desktop\DataModel\obj\Debug\DataModel.pdb
